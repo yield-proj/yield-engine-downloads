@@ -1,1 +1,2 @@
 5,0pre6/Yield Engine 5 Pre-release 6/The main difference of this release is the OpenGL and OpenAL implementations of the Yield Engine 5.
+5,0pre7/Yield Engine 5 Pre-release 7/Bug fixing and editor integration

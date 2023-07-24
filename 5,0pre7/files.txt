@@ -1,0 +1,3 @@
+yield-core.jar
+yield-openglimpl.jar/yield-swingimpl.jar
+yield-openalimpl.jar/yield-javaxsoundimpl.jar
